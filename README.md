@@ -1,2 +1,2 @@
-# SC_302_Documentacion_MN_Grupo3
+# SC_302_Documentacion_VN_Grupo3
 Laboratorio_Github_grupo3
